@@ -12,4 +12,4 @@ It can be usefull to make setup file of your Node Application
     
     servicedesc="Demonize NodeApp"
 
-2. Launch demonize.bat and it install native windows service for your server, restarting at fail and auto startup 
+2. Launch demonize.bat and it will install native windows service for your application, with restarting on fail and auto startup on reboot
